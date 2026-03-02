@@ -1,0 +1,9 @@
+{
+    "name": "EvolutionPeriodSwitcher",
+    "description": "Allows switching between day/week/month granularity on evolution graphs when using date range selection.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "matomo": ">=5.0.0,<6.0.0-b1"
+    }
+}
