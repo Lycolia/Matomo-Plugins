@@ -1,0 +1,6 @@
+{
+    "IpVersion": {
+        "IpVersion": "IP version",
+        "getIpVersionDocumentation": "This report shows the number of visits by the IP version (IPv4 or IPv6) used to connect to Matomo. IPv4-mapped IPv6 addresses are counted as IPv4."
+    }
+}

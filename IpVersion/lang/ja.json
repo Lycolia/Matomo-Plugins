@@ -1,0 +1,6 @@
+{
+    "IpVersion": {
+        "IpVersion": "IPバージョン",
+        "getIpVersionDocumentation": "Matomoへの接続に使われたIPバージョン(IPv4またはIPv6)別のビジット数を示します。IPv4射影IPv6アドレスはIPv4として数えます。"
+    }
+}

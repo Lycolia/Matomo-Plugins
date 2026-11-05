@@ -5,4 +5,10 @@
 | プラグイン                                                 | 内容                                                                     |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [EvolutionPeriodSwitcher](docs/EvolutionPeriodSwitcher.md) | Matomoのグラフで日・週・月・年の表示単位を切り替えるようにするプラグイン |
-| [VisitorIdReport](docs/VisitorIdReport.md)                 | MatomoのビジターIDごとの訪問数を一覧表示するプラグイン 
+| [IpVersion](IpVersion/)                                    | MatomoのIPv4/IPv6別の訪問数を表示するプラグイン                          |
+| [VisitorIdReport](docs/VisitorIdReport.md)                 | MatomoのビジターIDごとの訪問数を一覧表示するプラグイン                   |
+
+# ライセンス
+
+- IpVersion: GPL-3.0-or-later（[IpVersion/LICENSE](IpVersion/LICENSE)）
+- 上記以外: MIT（[LICENSE](LICENSE)）
