@@ -10,5 +10,4 @@
 
 # ライセンス
 
-- IpVersion: GPL-3.0-or-later（[IpVersion/LICENSE](IpVersion/LICENSE)）
-- 上記以外: MIT（[LICENSE](LICENSE)）
+- AGPL-3.0-or-later（[LICENSE](LICENSE)）
