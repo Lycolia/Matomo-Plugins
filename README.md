@@ -10,4 +10,6 @@
 
 # ライセンス
 
-- AGPL-3.0-or-later（[LICENSE](LICENSE)）
+AGPL(AFFERO GENERAL PUBLIC LICENSE) Version 3またはそれ以降のバージョンの下で本プログラム（システム）を再配布することが可能です。
+
+
